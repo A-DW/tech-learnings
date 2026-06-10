@@ -33,6 +33,7 @@ tech-learnings/
 - [ ] VS Code setup & extensions
 - [ ] Docker & container orchestration
 - [ ] Git advanced workflows
+- [x] [Antigravity IDE — Linux tarball install, sandbox troubleshooting & GNOME launcher](tools/antigravity-ide/Antigravity-IDE-Manual.md)
 
 ### 🏗️ Infrastructure
 - [ ] Ubuntu 24.04 server hardening
@@ -55,7 +56,7 @@ tech-learnings/
 
 | Date | Topic | Notes |
 |------|-------|-------|
-| - | - | - |
+| 2026-06-10 | Antigravity IDE on Linux | User-local tarball install, `--no-sandbox` fix, GNOME `.desktop` launcher wiring |
 
 ---
 
