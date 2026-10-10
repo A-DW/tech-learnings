@@ -36,9 +36,11 @@ tech-learnings/
 - [x] [Antigravity IDE — Linux tarball install, sandbox troubleshooting & GNOME launcher](tools/antigravity-ide/Antigravity-IDE-Manual.md)
 
 ### 🏗️ Infrastructure
+- [x] [Linux VMs with QEMU/KVM — libvirt, virt-manager, desktop & headless server setup](https://github.com/A-DW/Linux_VMs_with_QEMU-KVM) *(standalone repo)*
 - [ ] Ubuntu 24.04 server hardening
 - [ ] Cloudflare tunnels & DNS
 - [ ] Oracle Cloud & self-hosting
+- [ ] Proxmox VE for a dedicated home-lab host
 
 ### ⚙️ Automation
 - [ ] N8N workflows
@@ -56,6 +58,7 @@ tech-learnings/
 
 | Date | Topic | Notes |
 |------|-------|-------|
+| 2026-10-10 | Linux VMs with QEMU/KVM | New repo [Linux_VMs_with_QEMU-KVM](https://github.com/A-DW/Linux_VMs_with_QEMU-KVM): KVM vs QEMU vs libvirt vs virt-manager, NAT-first networking, VirtIO drivers for Windows guests, headless Ubuntu Server setup |
 | 2026-06-10 | Antigravity IDE on Linux | User-local tarball install, `--no-sandbox` fix, GNOME `.desktop` launcher wiring |
 
 ---
