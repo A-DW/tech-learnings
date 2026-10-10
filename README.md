@@ -34,6 +34,7 @@ tech-learnings/
 - [ ] Docker & container orchestration
 - [ ] Git advanced workflows
 - [x] [Antigravity IDE — Linux tarball install, sandbox troubleshooting & GNOME launcher](tools/antigravity-ide/Antigravity-IDE-Manual.md)
+- [x] [Agnostic Local DevContainer — language-agnostic Docker Compose dev environment, volumes & troubleshooting](tools/agnostic-local-devcontainer/Agnostic-Local-DevContainer-Manual.md)
 
 ### 🏗️ Infrastructure
 - [x] [Linux VMs with QEMU/KVM — libvirt, virt-manager, desktop & headless server setup](infrastructure/qemu-kvm/Linux-VMs-with-QEMU-KVM-Manual.md)
@@ -57,6 +58,7 @@ tech-learnings/
 
 | Date | Topic | Notes |
 |------|-------|-------|
+| 2026-10-10 | Agnostic Local DevContainer | Compose-based Dev Container template, named volumes for `node_modules`/npm cache, root-to-`node` ownership fix, full-reset workflow |
 | 2026-10-10 | Linux VMs with QEMU/KVM | KVM/QEMU/libvirt/virt-manager stack, NAT-first VirtIO VM, headless Ubuntu Server managed over `qemu+ssh` |
 | 2026-06-10 | Antigravity IDE on Linux | User-local tarball install, `--no-sandbox` fix, GNOME `.desktop` launcher wiring |
 
